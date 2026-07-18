@@ -21,9 +21,9 @@
 ---
 
 ##  Projects
-🔹 Java Array Practice Programs  
-🔹 String Manipulation Programs  
-🔹 Mini Projects (Coming Soon...)
+🔹 Campus management system  
+🔹 Local boost  
+🔹 Resume internship finder
 
 ---
 
